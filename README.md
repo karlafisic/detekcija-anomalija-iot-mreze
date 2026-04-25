@@ -1,9 +1,9 @@
 # Behavioral Anomaly Detection in IoT Networks Using Artificial Intelligence
-**Authors: 
+**Authors:** 
 - Karla Fišić
 - Mila Matijević
-- Matej Kvesić
-Institution: Faculty of Mechanical Engineering, Computing and Electrical Engineering (FSRE), University of Mostar, Bosnia and Herzegovina**
+- Matej Kvesić 
+Institution: Faculty of Mechanical Engineering, Computing and Electrical Engineering (FSRE), University of Mostar, Bosnia and Herzegovina
 
 This repository contains the source code for the paper. The implementation uses an autoencoder trained exclusively on normal IoT network traffic to detect anomalous (attack) flows based on reconstruction error. A comparative evaluation with Isolation Forest and One-Class SVM is also included.
 
